@@ -1,2 +1,2 @@
-# Hello-world
-pasta teste da aula de git 
+# Contagem Regressiva exercício
+Teste de programação
